@@ -53,6 +53,6 @@
     "typescript": "^2.5.2"
   },
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
